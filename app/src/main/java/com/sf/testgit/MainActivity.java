@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+        //设置tv的字体
+        tv.setText("测试git插件");
     }
 }
